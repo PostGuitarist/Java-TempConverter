@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Main {  
   
   public static void fahrenToCel(double x){
-    x-= 32;
+    x -= 32;
     x *= 0.5556;
     System.out.println(x);
   }
