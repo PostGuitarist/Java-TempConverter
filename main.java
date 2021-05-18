@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {  
+class Main{  
   
   public static void fahrenToCel(double x){
     x -= 32;
